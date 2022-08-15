@@ -128,11 +128,10 @@ a:hover {
 }
 .end-line {
   color: #EAF6F6;
-  font-size: 0.85rem;  /*0.85rem = 13.6px*/
+  font-size: 0.75rem;  /*0.75rem = 12px*/
   margin: 1.875rem auto 0;  /*1.875rem = 30px*/
 }
 .footer-link {
   text-decoration: none;
-}
-
-/*================ ID Selectors ================*/
+  font-size: 1.25rem;  /*1.25rem = 20px*/
+} 
