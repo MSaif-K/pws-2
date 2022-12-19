@@ -1,2 +1,2 @@
-# pws-2
+# pws
 Second Personal Website
